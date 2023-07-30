@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "artfills",
+    "password": "postgres",
+    "database": "postgres",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["entities/*.ts"]
+  }
+  
